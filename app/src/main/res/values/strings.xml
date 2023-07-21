@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">proyecto015</string>
+    <string name="nombre_del_archivo">Nombre del archivo</string>
+    <string name="contenido_del_archivo">Contenido del archivo</string>
+    <string name="guardar">Guardar</string>
+    <string name="recuperar">Recuperar</string>
+</resources>
